@@ -1,0 +1,10 @@
+﻿DEBUG: Starting server.js execution...
+≡ƒÜÇ Server running on port 5001
+≡ƒôì Environment: development
+≡ƒöä Server Updated
+Γ£à MongoDB Connected
+Received verify-token request
+Received verify-token request
+Received verify-token request
+Received verify-token request
+Received verify-token request
